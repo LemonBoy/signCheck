@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>signCheck</name>
+  <coder>The Lemon Man</coder>
+  <version>0.3b</version>
+  <release_date>200907061500</release_date>
+  <short_description>IOS sanity check</short_description>
+  <long_description>Features new in 0.3 :
+
+[*] Now analyze any ios present on the wii
+[+] Output a csv report of the wii ios set
+[+] Usb2, boot2 and flash access test
+
+For complaints, bitching or compliments contact me on #wiihelp or #HACKERCHANNEL (EFNET)
+or on www.nextrl.it if you are italian :3
+  </long_description>
+</app>
+
